@@ -2,7 +2,11 @@
 
 int main()
 {
+<<<<<<< HEAD
     std::cout << "Pozdrav iz aplikacije od Mateja Spajica | 1311889031\n";
+=======
+    std::cout << "Pozdrav iz aplikacije od Mateja Spajica\n";
+>>>>>>> 1097d45 (first commit)
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
